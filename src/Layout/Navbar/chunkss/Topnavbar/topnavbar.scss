@@ -1,0 +1,11 @@
+.topNavbar {
+  &__header {
+    width: 100vw;
+    z-index: 999999;
+  }
+  &__logo {
+    height: 2rem;
+    width: 5rem;
+    object-fit: contain;
+  }
+}
